@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to Our Restaurant</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f8f8;
+            color: #333;
+        }
+        header {
+            background-color: #d35400;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        section {
+            padding: 20px;
+            text-align: center;
+        }
+        footer {
+            background-color: #222;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+        .welcome-message {
+            font-size: 24px;
+            margin-top: 20px;
+        }
+        .button {
+            margin: 20px auto;
+            padding: 10px 20px;
+            font-size: 18px;
+            background-color: #d35400;
+            color: white;
+            border: none;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+        .button:hover {
+            background-color: #e67e22;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to [Your Restaurant's Name]</h1>
+    </header>
+    <section>
+        <p class="welcome-message">Experience the best in food and hospitality.</p>
+        <button class="button">View Our Menu</button>
+    </section>
+    <footer>
+        <p>&copy; 2025 [Your Restaurant's Name]. All rights reserved.</p>
+    </footer>
+</body>
+</html>
