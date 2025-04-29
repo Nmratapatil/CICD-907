@@ -1,0 +1,12 @@
+<html>
+<head>
+    <style> 
+        h1 {
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <h1> My name is Namrata</h1>
+</body>
+</html>
